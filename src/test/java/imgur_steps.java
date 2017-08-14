@@ -14,6 +14,8 @@ public class imgur_steps {
     @Given("^I am on Imgur login page$")
     public void goToImgur() {
         driver = new FirefoxDriver();
+//        uncomment line below and comment out line above if you want to use Chrome instead of Firefox
+//        driver = new ChromeDriver();
         driver.get("https://www.imgur.com/signin");
     }
 
