@@ -1,2 +1,4 @@
 # cucumber-webdriver-sample
-Maven selenium webdriver project.  Cucumber (cucumber-junit) test framework running firefox drivers.
+Maven selenium webdriver project.  Cucumber (cucumber-junit) test framework running firefox or chrome drivers.  
+
+Make sure to comment/uncomment lines in step files, as well as change feature files depending on which browser you want to use.
