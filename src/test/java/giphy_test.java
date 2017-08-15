@@ -8,4 +8,4 @@ import org.junit.runner.RunWith;
         features = {"/users/Josephmiller/Projects/cucumber-webdriver-sample/src/test/resources/giphy_login.feature"}
 )
 
-public class giphy_testRunner {public class runTest {}}
+public class giphy_test {public class runTest {}}
